@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    padding: 5px 10px;
+}
+
+th {
+    background-color: red;
+    color: white;
+}
+
+td {
+    background-color: green;
+    color: white;
+}
